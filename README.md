@@ -6,6 +6,10 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a308984984ff4f9a826a5b34be2cc46a)](https://www.codacy.com/app/cv_github/swarm)
 [![Coverage Status](https://coveralls.io/repos/github/onechiporenko/swarm/badge.svg?branch=master)](https://coveralls.io/github/onechiporenko/swarm?branch=master)
 
+# DEPRECATED
+
+Please, use `@swarm-host/server` from `@swarm-host` [monorepo](https://github.com/onechiporenko/swarm-host-platform).
+
 Swarm-host is a server for SPA test-modes which is based on [express.js](http://expressjs.com) and uses [lair-db](https://github.com/onechiporenko/lair) as a data-storage.
 
 ## Install
